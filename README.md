@@ -20,6 +20,7 @@ frmStart3.frm – Start/menu screen form
 frmStart3.frx – Resource file for the start form
 
 -----------Orginal game code---------------
+
 Here is the origial game code found in the original-code branch:
 
 Form1.frm
